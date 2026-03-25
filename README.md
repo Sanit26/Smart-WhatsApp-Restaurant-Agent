@@ -33,6 +33,16 @@ This project demonstrates how **AI + automation** can transform small businesses
 
 ---
 
+## 🎥 Demo
+👉 [Watch Demo Video](https://drive.google.com/file/d/1yFQxZ0Bp2Wxo7RABBxDYG1BIIAS4519i/view?usp=sharing)  
+
+---
+
+## 📸 Screenshots
+👉 Add project screenshots here  
+
+---
+
 ## 🙌 Feedback
 I’d love to hear your feedback and suggestions!
 
